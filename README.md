@@ -393,4 +393,4 @@ Output
     4   D
 
 # 3. Executing the code
-Compile the "main.c" file and use it based on the required inputs and outputs explained on 2.
+Compile the "main.c" file and use it based on the required inputs explained on 2.
